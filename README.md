@@ -1,5 +1,5 @@
 # Data-Analytics-Project
-Estimating &amp; Forecasting UK Manufacturing Emissions using ML &amp; Deep Learning
+## Estimating &amp; Forecasting UK Manufacturing Emissions using ML &amp; Deep Learning
 
 This project develops a predictive data science framework to quantify and forecast harmful pollutant emissions across all manufacturing sub-sectors in the United Kingdom. Utilizing the UK National Atmospheric Emissions Inventory (NAEI) dataset, the study applies various Machine Learning (ML), Artificial Neural Networks (ANN), and Deep Learning methodologies to support the UK's net-zero policy.
 
